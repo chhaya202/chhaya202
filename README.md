@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Chhaya Sinha
 
-<!--
-**chhaya202/chhaya202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Django
+
+## 🛠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🚆 Train Management System
+- 👨‍💼 Employee Management System
+- 🛒 Amazon Clone
+- 🌐 Portfolio Website
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/chhaya202
