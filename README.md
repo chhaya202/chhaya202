@@ -114,7 +114,7 @@
 - View Train
 - Search Train
 
-<a href="https://github.com/chhaya202">
+<a href="https://github.com/chhaya202/Train-Management-System">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
 </a>
 
@@ -138,7 +138,7 @@ Employee CRUD Application
 - Delete Employee
 - Search Employee
 
-<a href="https://github.com/chhaya202">
+<a href="https://github.com/chhaya202/Employee-Management-System">
 <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
 </a>
 
@@ -166,8 +166,8 @@ Responsive shopping website
 - Hero Section
 - Product Cards
 
-<a href="https://github.com/chhaya202">
-<img src="https://img.shields.io/badge/View_Project-orange?style=for-the-badge"/>
+<a href="https://chhaya202.github.io/Amazon-Clone/">
+<img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge"/>
 </a>
 
 </td>
