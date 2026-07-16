@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Chhaya+Sinha;MCA+Student;Aspiring+Web+Developer;Learning+Django+%26+React" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chhaya202&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 
 # Hi 👋, I'm Chhaya Sinha
 
@@ -34,3 +38,16 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/chhaya202
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chhaya202&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaya202&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chhaya202&theme=tokyonight&hide_border=true"/>
+</p>
